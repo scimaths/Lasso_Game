@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1613571977 source:c:\users\personal home\desktop\cs101_rvrvrv\coin.cpp
+	"coin.h"
+	"lasso.h"
+	<cstdlib>
+	"menu.h"
+
+1610692516 c:\users\personal home\desktop\cs101_rvrvrv\coin.h
+	<cstdlib>
+	"MovingObject.h"
+	"menu.h"
+
+1610558556 c:\users\personal home\desktop\cs101_rvrvrv\movingobject.h
+	<simplecpp>
+	<vector>
+	<composite.h>
+	<sprite.h>
+
+1613648447 c:\users\personal home\desktop\cs101_rvrvrv\menu.h
+	<bits/stdc++.h>
+
+1613715047 c:\users\personal home\desktop\cs101_rvrvrv\lasso.h
+	"MovingObject.h"
+	"number.h"
+	"coin.h"
+	"menu.h"
+	<cstdlib>
+
+1613391510 c:\users\personal home\desktop\cs101_rvrvrv\number.h
+	<cstdlib>
+	"MovingObject.h"
+	"menu.h"
+
+1613585297 source:c:\users\personal home\desktop\cs101_rvrvrv\equation.cpp
+	<bits/stdc++.h>
+
+1613635755 source:c:\users\personal home\desktop\cs101_rvrvrv\hs.cpp
+	<bits/stdc++.h>
+	<simplecpp>
+	"lasso.h"
+	"hs.h"
+	"menu.h"
+
+1613586355 c:\users\personal home\desktop\cs101_rvrvrv\hs.h
+
+1613572019 source:c:\users\personal home\desktop\cs101_rvrvrv\lasso.cpp
+	<simplecpp>
+	<string>
+	<cstdlib>
+	"MovingObject.h"
+	"lasso.h"
+	"coin.h"
+	"menu.h"
+	"number.h"
+
+1613673726 source:c:\users\personal home\desktop\cs101_rvrvrv\main.cpp
+	<simplecpp>
+	<fstream>
+	<cstdlib>
+	<array>
+	<cstdio>
+	<string>
+	"MovingObject.h"
+	"number.h"
+	"lasso.h"
+	"coin.h"
+	"menu.h"
+	"modes.h"
+
+1613643539 c:\users\personal home\desktop\cs101_rvrvrv\modes.h
+	<bits/stdc++.h>
+	<simplecpp>
+	<fstream>
+	<cstdlib>
+	<array>
+	<cstdio>
+	<string>
+	"MovingObject.h"
+	"lasso.h"
+	"coin.h"
+	"menu.h"
+
+1613713447 source:c:\users\personal home\desktop\cs101_rvrvrv\menu.cpp
+	<bits/stdc++.h>
+	<simplecpp>
+	"menu.h"
+	<fstream>
+	<cstdlib>
+	<cstdio>
+	<string>
+	"hs.h"
+	"MovingObject.h"
+	"lasso.h"
+	"coin.h"
+	"menu.h"
+
+1613714946 source:c:\users\personal home\desktop\cs101_rvrvrv\modes.cpp
+	<simplecpp>
+	<fstream>
+	<cstdlib>
+	<array>
+	<cstdio>
+	<string>
+	<stdlib.h>
+	<string>
+	<time.h>
+	"MovingObject.h"
+	"lasso.h"
+	"coin.h"
+	"menu.h"
+	"hs.h"
+	"modes.h"
+	"number.h"
+	"equation.h"
+
+1611562256 c:\users\personal home\desktop\cs101_rvrvrv\equation.h
+
+1610558559 source:c:\users\personal home\desktop\cs101_rvrvrv\movingobject.cpp
+	<simplecpp>
+	"MovingObject.h"
+
+1613553011 source:c:\users\personal home\desktop\cs101_rvrvrv\number.cpp
+	<simplecpp>
+	"number.h"
+	<cstdlib>
+	"menu.h"
+
